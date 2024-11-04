@@ -11,7 +11,7 @@ This is a command-line interface (CLI) application that allows users to take a m
   
 
 ## Project Overview
-This Python application is designed for a Quiz Competition project, where users answer multiple-choice questions on Social Studies for Primary 5 level. At the end of the quiz, the application calculates the score and shows whether the user passed or failed based on a pass mark.
+This Python application is designed for Primary 5 pupils writing their Third Term Exams. The students are to answer multiple-choice questions on Social Studies. At the end of the quiz, the application calculates the score and shows whether the user passed or failed based on a pass mark.
 
 The project demonstrates:
 Modular code structure with separate files for functions and questions.
