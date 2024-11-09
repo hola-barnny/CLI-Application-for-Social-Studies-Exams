@@ -1,3 +1,5 @@
+## Banire Olaitan Olubusola(56712)
+
 ## CLI-Application-for-Social-Studies-Quiz
 
 This is a command-line interface (CLI) application that allows users to take a multiple-choice quiz on Social Studies. The application presents a series of questions, tracks the user’s score, and displays a result based on the pass mark when the quiz is completed.
